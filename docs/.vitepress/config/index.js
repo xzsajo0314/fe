@@ -8,6 +8,7 @@ const links = []
 
 export default withPwa(
     defineConfig({
+        base: '/fe/',
         title,
         description,
         head,
