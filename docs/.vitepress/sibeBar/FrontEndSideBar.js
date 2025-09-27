@@ -9,6 +9,14 @@ export default function FrontEndSideBar() {
                     text: '关于网站',
                     link: '/Introduction/',
                 },
+                {
+                    text: '教你手搓一個屬於自己的文檔站 fe開源篇',
+                    link: '/Introduction/教你手搓一個屬於自己的文檔站 fe開源篇/',
+                },
+                {
+                    text: '最速創建一篇新的 fe 文章',
+                    link: '/Introduction/最速創建一篇新的 fe 文章/',
+                },
             ],
         },
         {
